@@ -6,7 +6,7 @@ Berikut tampilan programnya.
 
 ![image](https://user-images.githubusercontent.com/53107522/128503075-df13f0ac-e74b-4022-bd42-4e2fb4dbc4e2.png)
 
-Aplikasi ini masih jauh dari kesempurnaan, maka dari itu dipersilahkan undtuk di kembangkan dan dipergunakan sebagaimana mestinya. 
+Aplikasi ini masih jauh dari kesempurnaan, maka dari itu dipersilahkan untuk di kembangkan dan dipergunakan sebagaimana mestinya. 
 Terimakasih banyak.
 
 Saran dan masukan yang membangun diharapkan untuk perbaikan kedepannya :
